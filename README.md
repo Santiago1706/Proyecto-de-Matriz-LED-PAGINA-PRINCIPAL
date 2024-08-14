@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Proyectos de Matriz LED</title>
+    <title>PAGINA PRINCIPAL (MATRIZ LED)</title>
     <!-- Agrega el ícono de la pestaña del navegador -->
     <link rel="icon" type="image/png" href="https://ideogram.ai/assets/progressive-image/balanced/response/7Clo_RpLTMSB0eSO0hzyAw">
 
@@ -121,13 +121,14 @@
         <div class="logo">
             <img src="https://colegiodivinosalvadorcali.edu.co/images/fixed/ESCUDO%20OFICIAl.png" alt="Logo 1">
         </div>
-        <h1>Proyecto Matriz LED controlada con joystick</h1>
+        <h1>Proyectos Matriz LED</h1>
+        <h1>Pagina Principal</h1>
     </header>
 x
     <nav>
         <div class="Menu">
             <ul>
-                <li><a href="file:///C:/Users/esteban%20laiseca%20hoyo/OneDrive/Escritorio/TRABAJO%20DE%20MATRIZ%20LED/MATRIZ%20LED%20PROYECTOS/PROYECTOS%20DE%20MATRIZ%20LED%20PAGINA%20PRINCIPAL.html">Página Principal</a></li>
+                <li><a href="https://santiago1706.github.io/Proyecto-de-Matriz-LED-PAGINA-PRINCIPAL/">Página Principal</a></li>
                 <li><a href="file:///C:/Users/esteban%20laiseca%20hoyo/OneDrive/Escritorio/TRABAJO%20DE%20MATRIZ%20LED/MATRIZ%20LED%20PROYECTOS/PANTALLA%20DE%20LETRAS.html">Pantalla de Letras</a></li>
                 <li><a href="file:///C:/Users/esteban%20laiseca%20hoyo/OneDrive/Escritorio/TRABAJO%20DE%20MATRIZ%20LED/MATRIZ%20LED%20PROYECTOS/JUEGO%20DE%20JOYSTICK.html">Juego con Joystick</a></li>
                 <li><a href="file:///C:/Users/esteban%20laiseca%20hoyo/OneDrive/Escritorio/TRABAJO%20DE%20MATRIZ%20LED/MATRIZ%20LED%20PROYECTOS/JOYSTICK%20GAME.html">joystick game</a></li>
