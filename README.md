@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Basura Tecnológica</title>
+    <title>Pagina Principal (MATRIZ LED)</title>
     <!-- Agrega el ícono de la pestaña del navegador -->
     <link rel="icon" type="image/png" href="https://ideogram.ai/assets/image/list/response/pEfXHfeZQzKx_UU6RyDqRg">
 
@@ -122,7 +122,8 @@
         <div class="logo">
             <img src="https://colegiodivinosalvadorcali.edu.co/images/fixed/ESCUDO%20OFICIAl.png" alt="Logo 1">
         </div>
-        <h1>Proyecto Matriz LED controlada con joystick</h1>
+        <h1>Proyectos de Matriz LED</h1>
+<h1>Pagina Principal</h1>
     </header>
 
     <nav>
